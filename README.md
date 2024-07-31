@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Java Full Stack Developer.</h3>
 
 - 📫 How to reach me **onkarrameshlondhe@gmail.com**
-- Reach out to another github account <a href="https://github.com/onkarlondhe" target="blank">onkarlondhe</a> for potential projects repository. 🤝"
+- Reach out to another github account <a href="https://github.com/onkarlondhe" target="blank">onkarlondhe</a> for potential projects repository.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
