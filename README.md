@@ -1,5 +1,5 @@
 <h1 align="center">Hello World👋, I'm Onkar Londhe</h1>
-<h3 align="center">A Passionate Java Full Stack Developer.</h3>
+<h3 align="center">A Passionate Java Developer.</h3>
 
 - 📫 How to reach me **onkarrameshlondhe@gmail.com**
 - Reach out to another github account <a href="https://github.com/onkarlondhe" target="blank">onkarlondhe</a> for potential projects repository.
