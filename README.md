@@ -1,7 +1,7 @@
 <h1 align="center">Hello World👋, I'm Onkar Londhe</h1>
-<h3 align="center">A Passionate Java Developer.</h3>
+<h3 align="center">A Passionate Software Developer.</h3>
 
-- 📫 How to reach me **onkarrameshlondhe@gmail.com**
+- 📫 How to reach me **onkarlondhe78@gmail.com**
 - Reach out to another github account <a href="https://github.com/onkarlondhe" target="blank">onkarlondhe</a> for potential projects repository.
 
 <h3 align="left">Connect with me:</h3>
